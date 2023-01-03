@@ -18,4 +18,6 @@
 
 ### Choose a license
 
+License: **None**
+
 [^1]: Required field
