@@ -3,8 +3,8 @@
 **Content View**
 
 * [Repositories](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repositories)
-  * [Repository name](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-name)
-  * [Repository description](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-description)
+  * [Repository name](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-name)[^1]
+  * [Repository description](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-description)[^1]
 
 ## Repositories
 
@@ -13,11 +13,6 @@
 > **Note**
 > This field must be filled out
 
-The repository name musn't contain
-
-1. Explicit content
-2. Illegal content [^1]
-
 ### Repository description
 
 > **Note**
@@ -25,4 +20,17 @@ The repository name musn't contain
 
 Describe the repository's content as well as possible.
 
-[^1]: This rule is only for specific countries valid
+### Repository state
+
+This is not managed by your organization.
+
+### Add a Readme file
+
+This is not managed by your organization.
+
+### Add a .gitignore file
+
+> **Note**
+> You are doesn't allowed to add a .gitignore file.
+
+[^1]: Required field
