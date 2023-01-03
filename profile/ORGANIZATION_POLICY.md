@@ -8,18 +8,6 @@
 
 ## Repository
 
-### Repository name
-
-> **Note**
-> This field must be filled out
-
-### Repository description
-
-> **Note**
-> This field must be filled out
-
-Describe the repository's content as well as possible.
-
 ### Add a README file
 
 - [x] Add a README file
