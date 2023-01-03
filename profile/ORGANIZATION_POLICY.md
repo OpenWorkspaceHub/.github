@@ -7,7 +7,7 @@
   * [Repository description](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-description)[^1]
   * [Repository state](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#repository-name)[^2]
   * [Add a Readme file](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#add-a-readme-file)[^2]
-  * [Add a .gitignore file](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#add-a-.gitignore-file)[^3]
+  * [Add a .gitignore file](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#add-a-gitignore-file)[^3]
 
 ## Repositories
 
