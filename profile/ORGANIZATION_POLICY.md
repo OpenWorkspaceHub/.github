@@ -10,7 +10,10 @@
 
 ### Repository name
 
-The repository name and description musn't contain
+> **Note**
+> This field must be filled out
+
+The repository name musn't contain
 
 1. Explicit content
 2. Illegal content [^1]
