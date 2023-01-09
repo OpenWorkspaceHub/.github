@@ -8,6 +8,7 @@
   * [Choose a license](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#choose-a-license)
 * [General](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#general)
   * [Template repository](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#template-repository)
+  * [Require contributors to sign off on web-based Commits](https://github.com/OpenWorkspaceHub/.github/blob/master/profile/ORGANIZATION_POLICY.md#Require-contributors-to-sign-off-on-web-based-Commits) 
 
 ## Repository
 
