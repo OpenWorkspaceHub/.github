@@ -18,11 +18,11 @@
 
 ### Add .gitignore
 
-.gitignore template: **None**
+`.gitignore template:` **None**
 
 ### Choose a license
 
-License: **None**
+`License:` **None**
 
 ## General
 
