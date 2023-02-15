@@ -32,4 +32,4 @@
 
 ### Require contributors to sign off on web-based commits
 
-- [ ] Require contributors to sign off on web-based commits
+- [x] Require contributors to sign off on web-based commits
